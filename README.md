@@ -4,7 +4,7 @@
 ## 栈，队列
 
 ## 字符串
-
+[KMP字符串匹配](https://github.com/orochiZhang/basal-algorithms/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D.md)
 ## 树
 ### 基本概念
 1. 某节点所拥有子树个数称为节点度。
