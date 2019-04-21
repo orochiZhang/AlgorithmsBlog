@@ -20,11 +20,14 @@
 ### 基本概念
 二叉树是一种特殊的树形结构：二叉树中的每个结点至多有2棵子树（即每个结点的度小于等于2），并且两个子树有左右之分，顺序不可颠倒。在二叉树中还有种特殊的二叉树就是完全二叉树：所有结点中除了叶子结点以外的结点都有两棵子树。如果完全二叉树中只有最底层为叶子结点那么又称为满二叉树。
 ### 二叉树的遍历
-
+1. [前序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+2. [中序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+3. [后序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+4. [层序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 ### 二叉树的形态
-1.斜树  
-2.满二叉树   
-3.完全二叉树   
+1. 斜树  
+2. 满二叉树   
+3. 完全二叉树   
 ### 基本性质
 1. 二叉树第i层最多有2<sup>i-1</sup>个结点。
 2. 深度为k的二叉树最少有k个结点，最多有2<sup>k-1</sup>个结点。     
