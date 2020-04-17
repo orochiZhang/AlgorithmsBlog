@@ -9,8 +9,8 @@
 ## 栈，队列
 
 ## 字符串
-1. [KMP字符串匹配](https://github.com/orochiZhang/basal-algorithms/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D.md)
-2. [滑动窗口算法](https://github.com/orochiZhang/basal-algorithms/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%AE%97%E6%B3%95.md)
+1. [KMP字符串匹配](https://github.com/orochiZhang/basal-algorithms/blob/master/string/KMP.md)
+2. [滑动窗口算法](https://github.com/orochiZhang/basal-algorithms/blob/master/string/Sliding_Window.md)
 
 ## 树
 ### 基本概念
@@ -36,10 +36,10 @@
 那么，N=N<sub>0</sub>+N<sub>1</sub>+N<sub>2</sub>     
 4. 具有n个结点完全二叉树深度为Log<sub>2</sub>n+1。
 ### 二叉树的遍历
-1. [前序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
-2. [中序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
-3. [后序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.md)
-4. [层序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+1. [前序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/DLR.md)
+2. [中序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/LDR.md)
+3. [后序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/LRD.md)
+4. [层序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/level-order-traversal.md)
 ### 二叉树的存储
 1. 二叉树的链式存储
 2. 二叉树的线性存储
@@ -68,7 +68,7 @@
 9. 堆排序
 
 ## 查找
-1. 二分
+1. [二分](https://github.com/orochiZhang/basal-algorithms/blob/master/search/binary-search.md)
 
 ## 动态规划（DP）
 1. 爬楼梯
