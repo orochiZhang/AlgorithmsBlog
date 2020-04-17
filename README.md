@@ -1,5 +1,5 @@
-# basal-algorithms
-大学能学到的基础算法
+# algorithms-and-data-structures 
+用python刷leetcode，系统地总结知识点。 
 
 ## 链表
 1. 循环链表
