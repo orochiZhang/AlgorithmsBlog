@@ -11,7 +11,8 @@
 2. 判断链表有环
 
 ## 栈，队列
-1. 验证栈顺序
+1. [验证栈顺序](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/stack_and_queue/validate-stack-sequences.md)
+2. 双端循环队列
 
 ## 字符串
 1. [KMP字符串匹配](https://github.com/orochiZhang/basal-algorithms/blob/master/string/KMP.md)
