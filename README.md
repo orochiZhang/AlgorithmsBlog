@@ -22,10 +22,8 @@
 ## 二叉树
 [基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/summary.md)
 ### 二叉树的遍历
-1. [前序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/DLR.md)
-2. [中序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/LDR.md)
-3. [后序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/LRD.md)
-4. [层序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/level-order-traversal.md)
+1. [二叉树前，中，后序的递归与非递归遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/DLR.md)
+2. [二叉树层序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/level-order-traversal.md)
  
 
 ## 图
