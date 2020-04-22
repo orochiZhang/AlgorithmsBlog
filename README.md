@@ -6,7 +6,12 @@
 2. 双向链表
 3. 双向循环链表
 
+### 双指针
+1. 移动零
+2. 判断链表有环
+
 ## 栈，队列
+1. 验证栈顺序
 
 ## 字符串
 1. [KMP字符串匹配](https://github.com/orochiZhang/basal-algorithms/blob/master/string/KMP.md)
@@ -24,6 +29,10 @@
 ### 二叉树的遍历
 1. [二叉树前，中，后序的递归与非递归遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/DLR.md)
 2. [二叉树层序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/level-order-traversal.md)
+3. [二叉树的最大深度]()
+
+### 二叉搜索树
+1. [二叉搜索树中第K小的元素]()(中序遍历求第K个元素)
  
 
 ## 图
