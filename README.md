@@ -2,13 +2,15 @@
 用python刷leetcode，系统地总结知识点。 
 
 ## 链表
+
+### 常见的数据结构
 - 循环链表
 - 双向链表
 - 双向循环链表
 
 ### 双指针
-- 移动零
-- 判断链表有环
+- [移动零](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/linked_list/move-zeroes.md)
+- [判断链表有环](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/linked_list/first-common-node.md)
 
 ## 栈，队列
 - [验证栈顺序](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/stack_and_queue/validate-stack-sequences.md)
