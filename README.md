@@ -42,7 +42,7 @@
 ## 图
 - [基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/map/summary.md)
 ### 图的遍历
-**深度优先遍历(DFS),广度优先遍历(BFS)**
+- 深度优先遍历(DFS),广度优先遍历(BFS)
 - 用DFS，BFS解决[节点间的通路](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/route-between-nodes.md)
 ### 最小生成树
 ### 拓扑排序
@@ -65,3 +65,6 @@
 1. 爬楼梯
 2. 挖金矿
 3. 打家劫舍
+
+## 其他
+- [摩尔多数投票算法解决寻找众数问题](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/other/Boyer-Moore-majority-vote-algorithm.md)
