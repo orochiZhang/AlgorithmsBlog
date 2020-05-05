@@ -46,6 +46,7 @@
 - 用DFS，BFS解决[节点间的通路](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/route-between-nodes.md)
 ### 最小生成树
 ### 拓扑排序
+1. [拓扑排序入门](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/topological-order.md)
 
 ## 排序
 1. 冒泡
