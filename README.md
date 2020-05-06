@@ -45,6 +45,8 @@
 ### 图的遍历
 - 深度优先遍历(DFS),广度优先遍历(BFS)
 - 用DFS，BFS解决[节点间的通路](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/route-between-nodes.md)
+- 用BFS解决[钥匙和房间](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/keys-and-rooms.md)
+
 ### 最小生成树
 ### 拓扑排序
 1. [拓扑排序入门](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/topological-order.md)
