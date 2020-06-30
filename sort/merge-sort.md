@@ -1,5 +1,6 @@
 ## 递归-归并排序
 ```python
+# 归并排序
 def merge_sort(arr):
     length = len(arr)
     if length > 3:
@@ -10,6 +11,7 @@ def merge_sort(arr):
     else:
         return bubble_sort(arr)
 
+# 冒泡排序
 def bubble_sort(arr):
     length = len(arr)
     for i in range(length):
@@ -18,6 +20,7 @@ def bubble_sort(arr):
                 arr[i], arr[j] = arr[j], arr[i]
     return arr
 
+# 合并数组
 def arr_sort(arr1, arr2):
     i = 0
     j = 0
