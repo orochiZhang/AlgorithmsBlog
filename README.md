@@ -49,18 +49,18 @@
 
 ### 最小生成树
 ### 拓扑排序
-1. [拓扑排序入门](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/topological-order.md)
+- [拓扑排序入门](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/topological-order.md)
 
 ## 排序
-1. 冒泡
-2. 选择
-3. 插入
-4. 希尔
-5. 桶
-6. 基数
-7. 快排
-8. 归并
-9. 堆排序
+- 冒泡
+- 选择
+- 插入
+- [希尔](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/sort/shell-sort.py)
+- 桶
+- 基数
+- [快排](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/sort/quick_sort.md)
+- [归并](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/sort/merge-sort.md)
+- [堆排序](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/sort/Heapsort.py)
 
 ## 查找
 - [二分](https://github.com/orochiZhang/basal-algorithms/blob/master/search/binary-search.md)
