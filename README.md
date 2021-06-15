@@ -17,7 +17,7 @@
 - 双端循环队列
 
 ## 字符串
-- [回文字符串判断]()
+- [回文字符串判断](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/string/valid_palindrome.md)
 - [KMP字符串匹配](https://github.com/orochiZhang/basal-algorithms/blob/master/string/KMP.md)
 - [滑动窗口算法](https://github.com/orochiZhang/basal-algorithms/blob/master/string/Sliding_Window.md)
 
