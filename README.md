@@ -72,3 +72,4 @@
 
 ## 其他
 - [摩尔多数投票算法解决寻找众数问题](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/other/Boyer-Moore-majority-vote-algorithm.md)
+- [1到10000的正整数中含有4的有多少个](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/other/count_of_number.md)
