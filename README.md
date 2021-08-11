@@ -63,7 +63,7 @@
 - [堆排序](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/sort/Heapsort.py)
 
 ## 查找
-- [二分](https://github.com/orochiZhang/basal-algorithms/blob/master/search/binary-search.md)
+- [二分](https://github.com/orochiZhang/basal-algorithms/blob/master/search/binary-search.py)
 
 ## 动态规划（DP）
 1. 爬楼梯

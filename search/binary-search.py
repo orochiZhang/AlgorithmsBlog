@@ -1,4 +1,5 @@
-```python
+
+
 def searchInsert(self, nums: List[int], target: int) -> int:
     end = len(nums) - 1
     start = 0
@@ -11,4 +12,4 @@ def searchInsert(self, nums: List[int], target: int) -> int:
         else:
             return middle
     return start
-```
+
