@@ -36,7 +36,7 @@
 - [二叉树的最大深度]()
 
 ### 二叉搜索树
-- 二叉搜索树中第K小的元素(https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/Binary_Search_Tree/kth-smallest-element-in-a-bst.py)(中序遍历求第K个元素)
+- [二叉搜索树中第K小的元素](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/Binary_Search_Tree/kth-smallest-element-in-a-bst.py)(中序遍历求第K个元素)
 - [把二叉搜索树转换为单向链表](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/Binary_Search_Tree/binode-lcci.md)(中序遍历,修改每一个节点的left为none，right指向中序遍历的下一个节点)
  
 
