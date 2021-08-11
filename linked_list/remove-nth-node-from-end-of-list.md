@@ -31,7 +31,6 @@ class Solution:
             n -= 1
         
         while fast:
-            print(fast.val, slow.val)
             pre = slow
             fast = fast.next
             slow = slow.next
