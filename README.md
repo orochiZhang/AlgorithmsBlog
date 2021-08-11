@@ -11,6 +11,7 @@
 ### 双指针
 - [移动零](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/linked_list/move-zeroes.md)
 - [判断链表有环](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/linked_list/first-common-node.md)
+- [删除链表的倒数第N个节](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/linked_list/remove-nth-node-from-end-of-list.md)
 
 ## 栈，队列
 - [验证栈顺序](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/stack_and_queue/validate-stack-sequences.md)
