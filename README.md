@@ -1,4 +1,4 @@
-# algorithms-and-data-structures 
+# 基本的数据结构和算法
 用python刷leetcode，系统地总结知识点。 
 
 ## 链表
