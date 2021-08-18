@@ -24,14 +24,14 @@
 - [滑动窗口算法](https://github.com/orochiZhang/basal-algorithms/blob/master/string/Sliding_Window.md)
 
 ## 树
-[基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/tree/summary.md)
+- (持续更新)[基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/tree/summary.md)
 
 ### 常见的数据结构
 - B tree
 - B+ tree
 
 ## 二叉树
-[基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/summary.md)
+- (持续更新)[基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/summary.md)
 ### 二叉树的遍历
 - [二叉树前，中，后序的递归与非递归遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/DLR.md)
 - [二叉树层序遍历](https://github.com/orochiZhang/basal-algorithms/blob/master/binary_tree/level-order-traversal.md)
@@ -43,7 +43,7 @@
  
 
 ## 图
-- [基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/map/summary.md)
+- (持续更新)[基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/map/summary.md)
 ### 图的遍历
 - 深度优先遍历(DFS),广度优先遍历(BFS)
 - 用DFS，BFS解决[节点间的通路](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/map/route-between-nodes.md)
