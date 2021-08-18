@@ -16,6 +16,7 @@
 ## 栈，队列
 - [验证栈顺序](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/stack_and_queue/validate-stack-sequences.md)
 - 双端循环队列
+- [【最小栈】常数时间内检索到最小元素的栈 ](https://github.com/orochiZhang/BaseAlgorithms/blob/master/stack_and_queue/min-stack.md)
 
 ## 字符串
 - [回文字符串判断](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/string/valid_palindrome.md)
