@@ -19,9 +19,9 @@
 - [【最小栈】常数时间内检索到最小元素的栈 ](https://github.com/orochiZhang/BaseAlgorithms/blob/master/stack_and_queue/min-stack.md)
 
 ## 字符串
-- [回文字符串判断](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/string/valid_palindrome.md)
+- [回文字符串判断](https://github.com/orochiZhang/algorithms-and-data-structures/blob/master/string/valid-palindrome.md)
 - [KMP字符串匹配](https://github.com/orochiZhang/basal-algorithms/blob/master/string/KMP.md)
-- [滑动窗口算法](https://github.com/orochiZhang/basal-algorithms/blob/master/string/Sliding_Window.md)
+- [滑动窗口算法](https://github.com/orochiZhang/basal-algorithms/blob/master/string/Sliding-Window.md)
 
 ## 树
 - (持续更新)[基本概念](https://github.com/orochiZhang/basal-algorithms/blob/master/tree/summary.md)
