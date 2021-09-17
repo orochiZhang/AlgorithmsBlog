@@ -40,6 +40,14 @@ mysql的vachar字段的类型虽然最大长度是65535，但是并不是能存�
 ### 关于索引
 如果在一个char或者varchar列上建立唯一索引之后，那么'a'和'a '，会引起duplicate-key error。
 
+## 时间类型
+常用的记录时间的类型有
+1. int 直接记录时间戳
+2. timestamp
+3. datetime
+
+
+
 ## 参考文献
 - [varchar/nvarchar 和 char/nchar区别](https://blog.csdn.net/huangli1466384630/article/details/79831688)
 - [Mysql 数据库字符类型详解](https://www.cnblogs.com/xuchunlin/p/6235369.html)
