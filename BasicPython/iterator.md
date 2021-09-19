@@ -33,5 +33,4 @@ else:
 # 最后输出 yes, no
 ```
 参考文献：   
-- http://python.jobbole.com/89181/  
-- https://www.cnblogs.com/leomei91/p/7356752.html   
+- [可迭代对象，迭代器（生成器）区别](https://www.cnblogs.com/leomei91/p/7356752.html)   
