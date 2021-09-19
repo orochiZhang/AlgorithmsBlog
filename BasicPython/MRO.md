@@ -31,7 +31,7 @@ test2 = D()
 test.hello() #A
 ```
 
-## MRO
+## Python3的MRO算法
 ```
   O
  /|\
