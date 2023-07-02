@@ -40,3 +40,37 @@ class Solution:
         else:
             return None
 ```
+- 二叉搜索树的特点，根节点比左节点大，比右节点小。
+- 所以要找一个共同祖先，就是需要从根节点开始找，找到第一个node是要满足 min_node.val < node.val < max_node.val。
+```
+为什么是第一个node，看这个例子，如果寻找1， 6的共同祖先，我们需要的node是3，理论上4，5也是满足min_node.val < node.val < max_node.val。但是他们不是答案。
+	 8
+	/ \
+   3   9
+  / \
+ 1   4
+    / \
+   5   6
+```
+- 如果node大于max_node，那么就要从node.left寻找。
+- 如果node小于min_node，那么就要从node.right寻找。
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution:
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        node = root
+
+        max_node, min_node = (q, p) if q.val > p.val else (p, q)
+        while node.val > max_node.val or node.val < min_node.val:
+            if node.val > max_node.val:
+                node = node.left
+            elif node.val < min_node.val:
+                node = node.right
+        return node
+```

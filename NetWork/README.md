@@ -13,37 +13,29 @@
 HTTP, TFTP, FTP, NFS, WAIS,SMTP
 </td>
 </tr>
-
 <tr>
 <td>表示层（Presentation）</td>
 <td>Telnet, Rlogin, SNMP, Gopher</td>
 </tr>
-
 <tr>
 <td>会话层（Session）</td>
 <td>SMTP, DNS</td>
-
 </tr>
-
 <tr>
 <td>传输层（Transport）</td>
 <td>传输层</td>
 <td>TCP, UDP</td>
 </tr>
-
 <tr>
 <td>网络层（Network）</td>
 <td>网络层</td>
 <td>IP, ICMP, ARP, RARP, AKP, UUCP</td>
 </tr>
-
-
 <tr>
 <td>数据链路层（Data Link）</td>
 <td rowspan="2">数据链路层</td>
 <td>FDDI, Ethernet, Arpanet, PDN, SLIP, PPP</td>
 </tr>
-
 <tr>
 <td>物理层（Physical）</td>
 <td>IEEE 802.1A, IEEE 802.2到IEEE 802.11</td>
